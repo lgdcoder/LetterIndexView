@@ -1,5 +1,7 @@
 # LetterIndexView
-通讯录字母滑动指示器
+通讯录字母滑动指示器，高仿微信通讯录
+
+![TIM图片20200303192147](C:\Users\lgdco\Desktop\TIM图片20200303192147.jpg)
 
 attrs for LetterIndexView
 
