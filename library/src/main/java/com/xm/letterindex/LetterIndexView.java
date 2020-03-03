@@ -10,6 +10,8 @@ import android.graphics.RectF;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.ShapeDrawable;
 import android.graphics.drawable.shapes.RoundRectShape;
+import android.support.annotation.ColorInt;
+import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.Gravity;
@@ -19,9 +21,6 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.PopupWindow;
 import android.widget.TextView;
-
-import androidx.annotation.ColorInt;
-import androidx.annotation.Nullable;
 
 import java.util.ArrayList;
 import java.util.List;

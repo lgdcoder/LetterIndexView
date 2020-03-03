@@ -15,3 +15,28 @@ attrs for LetterIndexView
     <attr name="show_pop" format="boolean" />
 </declare-styleable>
 ```
+
+布局文件示例：
+
+```
+<com.xm.letterindex.LetterIndexView
+    android:id="@+id/vLetterIndex"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_centerVertical="true"
+    android:layout_gravity="right"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="10dp"
+    app:circle_color="#07C160"
+    app:circle_padding="2dp"
+    app:draw_circle_action_up="false"
+    app:item_space="10dp"
+    app:show_pop="true"
+    app:text_color="#202020"
+    app:text_selected_color="#FFFFFF"
+    app:text_size="10" />
+```
+
