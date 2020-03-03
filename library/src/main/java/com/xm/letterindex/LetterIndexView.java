@@ -1,4 +1,4 @@
-package com.example.test2;
+package com.xm.letterindex;
 
 import android.app.Activity;
 import android.content.Context;
