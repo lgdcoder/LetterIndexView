@@ -2,6 +2,8 @@
 
 <img src="https://github.com/lgdcoder/LetterIndex/blob/master/images/1.gif" style="max-width:50%;" />
 
+![](https://github.com/lgdcoder/LetterIndex/blob/master/images/1.gif)
+
 attrs for LetterIndexView
 
 ```
