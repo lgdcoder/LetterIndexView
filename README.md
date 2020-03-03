@@ -1,8 +1,6 @@
 通讯录字母滑动指示器，**<u>高仿微信通讯录</u>**
 
-<img src="https://github.com/lgdcoder/LetterIndex/blob/master/images/1.gif" style="max-width:50%;" />
-
-![](https://github.com/lgdcoder/LetterIndex/blob/master/images/1.gif)
+<img src="https://github.com/lgdcoder/LetterIndex/blob/master/images/1.gif" width='400px'/>
 
 attrs for LetterIndexView
 
