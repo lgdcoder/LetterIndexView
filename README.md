@@ -1,6 +1,6 @@
 通讯录字母滑动指示器，高仿微信通讯录
 
-<img src="http://mashuwo.oss-cn-beijing.aliyuncs.com/github/2020-03-03-22-08-50-544.gif" style="zoom:50%;" />
+<img src="https://github.com/lgdcoder/LetterIndex/blob/master/images/1.gif" style="zoom:20%;" />
 
 attrs for LetterIndexView
 
